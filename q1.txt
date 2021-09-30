@@ -1,1 +1,3 @@
 José Carlos López Oropeza
+grado: 9no.
+grupo: 2
